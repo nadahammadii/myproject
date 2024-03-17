@@ -1,5 +1,5 @@
 # myproject
 
-this is test rebo
-this rebo is created by Nada Hammadi
+this is test repo
+this repo is created by Nada Hammadi
 <h1>HELLO</h1>
